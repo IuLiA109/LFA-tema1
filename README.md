@@ -1,3 +1,3 @@
 # Limbaje formale si automate - year I
 
-DFA and NFA
+DFA (Deterministic Finite Automaton) and NFA (Nondeterministic Finite Automaton) verification programs
